@@ -12,11 +12,11 @@ The **SSIP Inventory Management System** is a web-based application designed to 
 ## Technologies Used
 
 - **Frontend**:  
-  - HTML5, CSS3  
+  - HTML, CSS  
 - **Backend**:  
   - Python with Flask framework  
 - **Database**:  
-  - SQLite  
+  - My SQL  
 
 ## Installation
 
